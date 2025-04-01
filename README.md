@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou a Lais! 
 
 🎓 Estudante de **Sistemas de Informação** na Universidade Federal de Sergipe  
-🚀 **Em busca de oportunidades para mergulhar em tecnologia de baixo nível e resolver problemas reais**
 
 ---
 
