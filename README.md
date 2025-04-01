@@ -22,7 +22,8 @@
 
 ## 📈 GitHub Analytics
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=laissantos04&show_icons=true&theme=radical&hide_title=true) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laissantos04&layout=compact&theme=radical&hide_title=true) |
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=laissantos04&show_icons=true&theme=radical&hide_title=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=laissantos04&layout=compact&theme=radical&hide_title=true)
 
 ---
 
