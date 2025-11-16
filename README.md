@@ -4,19 +4,6 @@
 
 ---
 
-## 🛠️ Skills
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-
-### 🔨 Ferramentas
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
----
-
 ## 📈 GitHub Analytics
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=laissantos04&show_icons=true&theme=radical&hide_title=true)
